@@ -224,7 +224,7 @@ img{
 /* Principles */
 .principles{
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: space-between;
 }
 
 .principles-item:not(:last-child){
@@ -248,19 +248,19 @@ img{
 }
 
 .icon-antena::before{
-    background-image: url(../img/antenna\ 1.png);
+    background-image: url(../img/antenna\ 1.svg);
 }
 
 .icon-clock::before{
-    background-image: url(../img/clock\ 1.png);
+    background-image: url(../img/clock\ 1.svg);
 }
 
 .icon-diagram::before{
-    background-image: url(../img/diagram\ 1.png);
+    background-image: url(../img/diagram\ 1.svg);
 }
 
 .icon-astronaut::before{
-    background-image: url(../img/astronaut\ 1.png);
+    background-image: url(../img/astronaut\ 1.svg);
 }
 
 .visually-hidden{
